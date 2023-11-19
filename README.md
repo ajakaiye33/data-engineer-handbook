@@ -43,6 +43,17 @@ Great YouTube Channels:
 - [The Ravit Show](https://youtube.com/@theravitshow)
 - [Azure Lib](https://www.youtube.com/@azurelib-academy)
 
+
+Great Podcasts
+
+- [The Data Engineering Show](https://www.dataengineeringshow.com/)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+- [DataTopics](https://www.datatopics.io/)
+- [The Data Engineering Side Of Data](https://podcasts.apple.com/us/podcast/the-engineering-side-of-data/id1566999533)
+- [DataWare](https://www.ascend.io/dataaware-podcast/)
+
+
+
 Newsletters:
 
 - [DataEngineer.io Newsletter](https://blog.dataengineer.io)
@@ -89,8 +100,6 @@ TikTok
 
 - [Zach Wilson](https://www.tiktok.com/@eczachly)
 - [Alex The Analyst](https://www.tiktok.com/@alex_the_analyst)
-
-
 
 Design Patterns 
 
