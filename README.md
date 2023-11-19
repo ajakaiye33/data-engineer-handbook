@@ -44,7 +44,7 @@ Great YouTube Channels:
 - [Azure Lib](https://www.youtube.com/@azurelib-academy)
 
 
-Great Podcasts
+Great Podcasts:
 
 - [The Data Engineering Show](https://www.dataengineeringshow.com/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
